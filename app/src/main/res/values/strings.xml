@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name" translatable="false">"NetPulse"</string>
+    <string name="netpulse_icon_content_description" translatable="false">"NetPulse icon"</string>
+    <string name="ic_wifi_signal_0_content_description" translatable="false">"Connected to Wi-Fi, but not validated or very poor signal"</string>
+    <string name="ic_wifi_signal_1_content_description" translatable="false">"Connected to Wi-Fi, poor signal"</string>
+    <string name="ic_wifi_signal_2_content_description" translatable="false">"Connected to Wi-Fi, moderate signal"</string>
+    <string name="ic_wifi_signal_3_content_description" translatable="false">"Connected to Wi-Fi, good signal"</string>
+    <string name="ic_wifi_signal_4_content_description" translatable="false">"Connected to Wi-Fi, great signal"</string>
+    <string name="ic_connected_true_content_description" translatable="false">"Connected and validated"</string>
+    <string name="ic_validated_false_content_description" translatable="false">"Connected, but not validated"</string>
+    <string name="ic_connected_false_content_description" translatable="false">"Not connected"</string>
+    <string name="device_connected" translatable="false">"This device is connected to a network. Network data:"</string>
+    <string name="device_not_connected" translatable="false">"This device isn't connected to any network"</string>
+    <string name="network_handle_label" translatable="false">"Network Handle: "</string>
+    <string name="network_handle_none" translatable="false">"None"</string>
+    <string name="transport_label" translatable="false">"Transport: "</string>
+    <string name="transport_wifi" translatable="false">"Wi-Fi"</string>
+    <string name="transport_cellular" translatable="false">"Cellular"</string>
+    <string name="transport_bluetooth" translatable="false">"Bluetooth"</string>
+    <string name="transport_ethernet" translatable="false">"Ethernet"</string>
+    <string name="transport_vpn" translatable="false">"VPN"</string>
+    <string name="transport_wifi_aware" translatable="false">"Wi-Fi Aware"</string>
+    <string name="transport_lowpan" translatable="false">"LoWPAN"</string>
+    <string name="transport_test" translatable="false">"Test"</string>
+    <string name="transport_usb" translatable="false">"USB"</string>
+    <string name="transport_thread" translatable="false">"Thread"</string>
+    <string name="transport_satellite" translatable="false">"Satellite"</string>
+    <string name="transport_unknown" translatable="false">"Unknown"</string>
+    <string name="transport_none" translatable="false">"None"</string>
+    <string name="metered_label" translatable="false">"Metered: "</string>
+    <string name="validated_label" translatable="false">"Validated: "</string>
+    <string name="signal_strength_label" translatable="false">"Signal Strength: "</string>
+    <string name="signal_strength_dbm" translatable="false">"%1$d dBm"</string>
+    <string name="ip_address_label" translatable="false">"IP Address: "</string>
+    <string name="ip_address_none" translatable="false">"None"</string>
+</resources>
